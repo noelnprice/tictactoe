@@ -1,5 +1,5 @@
 # tictactoe
-Code for TFA/Flatiron School Partnership interview process 
+
 board   = [[nil,nil,nil],
            [nil,nil,nil],
            [nil,nil,nil]]
